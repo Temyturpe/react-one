@@ -1,0 +1,9 @@
+.head{
+    color: blueviolet;
+    font-size: 3rem;
+}
+.body1, .body2{
+    font-size: 2rem;
+    font-weight: 500;
+    color: brown;
+}
